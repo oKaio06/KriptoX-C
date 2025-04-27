@@ -1,3 +1,5 @@
+OLD - Projeto principal com código atualizado + parte de admin se encontra em https://github.com/oKaio06/KriptoX-C-Adm/
+
 KriptoX é a uma cripto exchange sandbox desenvolvida em C onde você pode inserir dinheiro, comprar criptomoedas, vender criptomoedas e até mesmo transferir seu saldo, tudo isso sem afetar o seu saldo na vida real, nem positivamente nem negativamente. O seu nome vem de C**ripto** E**x**change e o meu nome **Kaio**, onde o C de cripto foi substituído pelo K de Kaio e o Exchange substituído pelo X. O programa salva os dados dos usuários e os dados da cotação utilizando um arquivo .bin (binário), ao carregar o programa todos os dados são colocados em variáveis que são utilizadas ao decorrer do tempo e atualizadas sempre que o usuário passa pelo menu de opções.
 
 Qual o objetivo do KriptoX ?
